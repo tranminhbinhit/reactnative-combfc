@@ -1,0 +1,21 @@
+export const pink = '#ef5086';
+export const white = '#ffffff';
+export const black = '#000000';
+export const gray = '#eaeaea';
+export const ddd = '#dddddd';
+export const facebook = '#3b5997';
+export const gooogle = '#d04f32';
+export const statusBackground = '#eb6b8c';
+export const tintColor = '#636363';
+export const darkgrey = '#a9a9a9';
+export const efefef = '#efefef';
+export const green = '#008C44';
+
+export const primary = '#007bff';
+export const secondary = '#6c757d';
+export const success = '#28a745';
+export const danger = '#dc3545';
+export const warning = '#ffc107';
+export const info = '#17a2b8';
+export const light = '#f8f9fa';
+export const dark = '#343a40';
